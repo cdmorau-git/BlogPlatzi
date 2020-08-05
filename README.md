@@ -1,2 +1,2 @@
-# hyperblog
-Un blog increible para Platzi
+# BlogPlatzi
+Blog de Platzi primer repositorio en GitHub
